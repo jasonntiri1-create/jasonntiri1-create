@@ -20,13 +20,13 @@ An AI-powered platform designed to help students navigate university discovery, 
 
 *Elixar is under active development; its core repositories are private.*
 
-### Pandora — Personal AI system
+### Pandora — Governed AI systems
 
-A personal AI-agent project exploring memory, tool use, orchestration, governance, and device workflows.
+A personal AI systems project exploring tool orchestration, risk classification, policy decisions, human-approval gates, asynchronous dispatch, and auditability.
 
-**My focus:** Python-based systems, agent architecture, integration design, and reliability testing.
+**My focus:** Python systems architecture, action governance, fail-closed defaults, test-driven hardening, and careful release design.
 
-*Pandora's implementation is private; this overview describes the project's direction, not a claim that every capability is production-ready.*
+**Public repository:** [Pandora](https://github.com/jasonntiri1-create/Pandora). This is a deliberately limited experimental action-gateway core—not the full private runtime or an end-user installer. The wider runtime, high-impact integrations, and operational state remain private; the public core is not represented as production-ready.
 
 ### Other experiments
 
